@@ -36,7 +36,7 @@ To visualize and analyze Nestle product sales data, identifying:
 
 ## 📂 Project Files
 
-- `Nestle_Sales_Dashboard_2024.xlsx` *(Upload the Excel file here)*
+- `Nestle Product Sales Data.xlsx` – Dataset used
 - `README.md` – Project documentation
 - `Screenshot.png` – Dashboard preview image
 
